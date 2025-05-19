@@ -10,7 +10,7 @@ I'm a beginner web developer excited about building websites and learning new te
 - **Interests**: Web design, automation, AI-technologies
 
 ## 🌟 My First Project
-- **[My First Website](https://github.com/yourusername/my-first-website)**  
+- **[My First Website](https://github.com/gowrishankar117/proj1)**  
   A simple website built with HTML and CSS, featuring a homepage, about page, and contact form. My first step into web development!
 
 ## 📊 Stats
