@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Gowri Shankar! 👋
 
 I'm a beginner web developer excited about building websites and learning new technologies. I’ve created my first website and am eager to grow my skills in web development, Python, and AI tools. Let’s connect and create something awesome!
 
